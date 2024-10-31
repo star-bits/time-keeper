@@ -6,4 +6,3 @@ Main features:
 - Dial type TimePicker ("천지인 이래 가장 위대한 인풋 인터페이스")
 - Dismiss next alarm
 - "Alarm is set for n hours from now." message
-- Custom alarm sound (*not allowed on iOS)
